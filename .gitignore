@@ -271,3 +271,6 @@ $RECYCLE.BIN/
 
 # .env
 .env
+
+#mallet files
+ds/mallet*

@@ -1,0 +1,1050 @@
+cluster: 0
+Статистика по top keywords:
+data mining встречался 92 раз
+system performance встречался 91 раз
+computational complexity встречался 83 раз
+computer science встречался 78 раз
+computer architecture встречался 77 раз
+performance evaluation встречался 72 раз
+algorithm design and analysis встречался 70 раз
+hardware встречался 69 раз
+real time встречался 68 раз
+performance встречался 67 раз
+----------------------------------------------------------------------------------------------------
+Статистика по top fos:
+Computer science встречался 2785 раз
+nothing встречался 1450 раз
+Artificial intelligence встречался 529 раз
+Algorithm встречался 498 раз
+Mathematics встречался 462 раз
+Engineering встречался 437 раз
+Distributed computing встречался 327 раз
+Data mining встречался 266 раз
+Electronic engineering встречался 255 раз
+Computer network встречался 246 раз
+####################################################################################################
+cluster: 1
+Статистика по top keywords:
+information retrieval встречался 3608 раз
+natural language processing встречался 1870 раз
+indexation встречался 1855 раз
+natural language встречался 1382 раз
+search engine встречался 1356 раз
+data mining встречался 1306 раз
+speech recognition встречался 1280 раз
+semantic web встречался 1278 раз
+text analysis встречался 954 раз
+language model встречался 857 раз
+----------------------------------------------------------------------------------------------------
+Статистика по top fos:
+Computer science встречался 37352 раз
+Artificial intelligence встречался 17906 раз
+Natural language processing встречался 15067 раз
+Information retrieval встречался 14500 раз
+Speech recognition встречался 5535 раз
+World Wide Web встречался 4641 раз
+Data mining встречался 3486 раз
+Linguistics встречался 2925 раз
+Ontology (information science) встречался 2458 раз
+Natural language встречался 2357 раз
+####################################################################################################
+cluster: 2
+Статистика по top keywords:
+satisfiability встречался 1374 раз
+first order встречался 884 раз
+modal logic встречался 761 раз
+temporal logic встречался 630 раз
+computational complexity встречался 591 раз
+model checking встречался 591 раз
+knowledge representation встречался 551 раз
+computer science встречался 534 раз
+theorem proving встречался 532 раз
+first order logic встречался 503 раз
+----------------------------------------------------------------------------------------------------
+Статистика по top fos:
+Mathematics встречался 18500 раз
+Computer science встречался 17611 раз
+Discrete mathematics встречался 9511 раз
+Theoretical computer science встречался 8276 раз
+Artificial intelligence встречался 5986 раз
+Algebra встречался 5810 раз
+Programming language встречался 5106 раз
+Algorithm встречался 4586 раз
+Calculus встречался 2837 раз
+Semantics встречался 2695 раз
+####################################################################################################
+cluster: 3
+Статистика по top keywords:
+information technology встречался 1562 раз
+information system встречался 928 раз
+computer science встречался 876 раз
+digital library встречался 852 раз
+internet встречался 842 раз
+software engineering встречался 643 раз
+information systems встречался 549 раз
+data mining встречался 542 раз
+information retrieval встречался 499 раз
+case study встречался 398 раз
+----------------------------------------------------------------------------------------------------
+Статистика по top fos:
+Computer science встречался 20378 раз
+Knowledge management встречался 5057 раз
+World Wide Web встречался 4654 раз
+nothing встречался 3958 раз
+Engineering встречался 3917 раз
+Business встречался 3741 раз
+Sociology встречался 3290 раз
+Data science встречался 2812 раз
+The Internet встречался 2559 раз
+Public relations встречался 2523 раз
+####################################################################################################
+cluster: 4
+Статистика по top keywords:
+web service встречался 3225 раз
+web services встречался 2410 раз
+internet встречался 2297 раз
+mobile computing встречался 1818 раз
+quality of service встречался 1714 раз
+mobile device встречался 1646 раз
+middleware встречался 1587 раз
+service oriented architecture встречался 1433 раз
+ubiquitous computing встречался 1042 раз
+web pages встречался 976 раз
+----------------------------------------------------------------------------------------------------
+Статистика по top fos:
+Computer science встречался 25775 раз
+World Wide Web встречался 9310 раз
+Computer network встречался 5609 раз
+Web service встречался 5336 раз
+The Internet встречался 4263 раз
+Distributed computing встречался 4080 раз
+Mobile computing встречался 3288 раз
+Multimedia встречался 3110 раз
+Computer security встречался 2443 раз
+Web modeling встречался 2341 раз
+####################################################################################################
+cluster: 5
+Статистика по top keywords:
+polynomial time встречался 946 раз
+computational complexity встречался 933 раз
+graph theory встречался 863 раз
+planar graph встречался 793 раз
+satisfiability встречался 781 раз
+lower bound встречался 756 раз
+upper bound встречался 705 раз
+graph g встречался 655 раз
+connected graph встречался 651 раз
+bipartite graph встречался 623 раз
+----------------------------------------------------------------------------------------------------
+Статистика по top fos:
+Mathematics встречался 31424 раз
+Combinatorics встречался 25471 раз
+Discrete mathematics встречался 23298 раз
+Graph встречался 5964 раз
+Vertex (geometry) встречался 5261 раз
+Computer science встречался 4351 раз
+Integer встречался 2871 раз
+Algorithm встречался 2570 раз
+Polynomial встречался 2485 раз
+Chordal graph встречался 2218 раз
+####################################################################################################
+cluster: 6
+Статистика по top keywords:
+remote sensing встречался 1678 раз
+mathematical model встречался 749 раз
+synthetic aperture radar встречался 625 раз
+computational modeling встречался 510 раз
+simulation встречался 480 раз
+satellites встречался 479 раз
+numerical simulation встречался 459 раз
+real time встречался 458 раз
+data mining встречался 430 раз
+vegetation встречался 424 раз
+----------------------------------------------------------------------------------------------------
+Статистика по top fos:
+Computer science встречался 9598 раз
+Materials science встречался 4775 раз
+Engineering встречался 4266 раз
+Remote sensing встречался 3187 раз
+Mathematics встречался 3153 раз
+Physics встречался 2876 раз
+Environmental science встречался 2759 раз
+Simulation встречался 2372 раз
+Artificial intelligence встречался 1914 раз
+Electronic engineering встречался 1841 раз
+####################################################################################################
+cluster: 7
+Статистика по top keywords:
+genetic algorithm встречался 2471 раз
+genetic algorithms встречался 1617 раз
+evolutionary algorithm встречался 1197 раз
+particle swarm optimization встречался 910 раз
+evolutionary computation встречался 883 раз
+optimization встречался 831 раз
+local search встречался 696 раз
+algorithm design and analysis встречался 670 раз
+genetics встречался 607 раз
+proposed algorithm встречался 570 раз
+----------------------------------------------------------------------------------------------------
+Статистика по top fos:
+Computer science встречался 9653 раз
+Algorithm встречался 5812 раз
+Mathematical optimization встречался 5585 раз
+Mathematics встречался 5144 раз
+Artificial intelligence встречался 4175 раз
+Genetic algorithm встречался 3751 раз
+Evolutionary algorithm встречался 2033 раз
+Particle swarm optimization встречался 1548 раз
+Machine learning встречался 1537 раз
+Theoretical computer science встречался 1467 раз
+####################################################################################################
+cluster: 8
+Статистика по top keywords:
+scheduling встречался 1198 раз
+optimization problem встречался 976 раз
+scheduling problem встречался 798 раз
+satisfiability встречался 781 раз
+optimization встречался 717 раз
+genetic algorithm встречался 657 раз
+computational complexity встречался 649 раз
+objective function встречался 460 раз
+linear programming встречался 456 раз
+constraint satisfaction problem встречался 445 раз
+----------------------------------------------------------------------------------------------------
+Статистика по top fos:
+Mathematical optimization встречался 11094 раз
+Computer science встречался 10307 раз
+Mathematics встречался 8328 раз
+Algorithm встречался 3650 раз
+Scheduling (computing) встречался 3261 раз
+Heuristic встречался 2332 раз
+Optimization problem встречался 1995 раз
+Job shop scheduling встречался 1827 раз
+Distributed computing встречался 1555 раз
+Heuristics встречался 1517 раз
+####################################################################################################
+cluster: 9
+Статистика по top keywords:
+neural network встречался 1545 раз
+artificial neural network встречался 722 раз
+neural networks встречался 601 раз
+fuzzy set theory встречался 587 раз
+neural nets встречался 536 раз
+fMRI встречался 477 раз
+pattern recognition встречался 475 раз
+fuzzy logic встречался 471 раз
+fuzzy set встречался 441 раз
+artificial neural networks встречался 433 раз
+----------------------------------------------------------------------------------------------------
+Статистика по top fos:
+Computer science встречался 9953 раз
+Artificial intelligence встречался 7904 раз
+Mathematics встречался 3991 раз
+Artificial neural network встречался 3696 раз
+Psychology встречался 3161 раз
+Neuroscience встречался 2627 раз
+Pattern recognition встречался 2130 раз
+Fuzzy logic встречался 2116 раз
+Machine learning встречался 1995 раз
+Algorithm встречался 1556 раз
+####################################################################################################
+cluster: 10
+Статистика по top keywords:
+operating system встречался 459 раз
+information system встречался 297 раз
+distributed system встречался 259 раз
+real time встречался 237 раз
+real time systems встречался 236 раз
+embedded system встречался 215 раз
+reliability встречался 206 раз
+expert system встречался 181 раз
+embedded systems встречался 172 раз
+complex system встречался 169 раз
+----------------------------------------------------------------------------------------------------
+Статистика по top fos:
+Computer science встречался 6331 раз
+Engineering встречался 1410 раз
+Distributed computing встречался 1053 раз
+Embedded system встречался 827 раз
+Artificial intelligence встречался 795 раз
+Reliability engineering встречался 746 раз
+Software engineering встречался 591 раз
+Operating system встречался 555 раз
+Software встречался 539 раз
+Mathematics встречался 516 раз
+####################################################################################################
+cluster: 11
+Статистика по top keywords:
+data mining встречался 2680 раз
+data structure встречался 734 раз
+data analysis встречался 595 раз
+data warehouse встречался 594 раз
+association rule встречался 565 раз
+relational database встречался 530 раз
+data model встречался 495 раз
+relational databases встречался 407 раз
+database system встречался 402 раз
+databases встречался 377 раз
+----------------------------------------------------------------------------------------------------
+Статистика по top fos:
+Computer science встречался 12245 раз
+Data mining встречался 5303 раз
+Database встречался 3142 раз
+Information retrieval встречался 1808 раз
+Artificial intelligence встречался 1589 раз
+Data science встречался 1166 раз
+Theoretical computer science встречался 1090 раз
+Data warehouse встречался 1037 раз
+Relational database встречался 999 раз
+World Wide Web встречался 994 раз
+####################################################################################################
+cluster: 12
+Статистика по top keywords:
+software engineering встречался 2887 раз
+software development встречался 2248 раз
+software systems встречался 1253 раз
+software architecture встречался 921 раз
+software quality встречался 819 раз
+software maintenance встречался 760 раз
+programming встречался 695 раз
+development process встречался 635 раз
+project management встречался 621 раз
+software design встречался 606 раз
+----------------------------------------------------------------------------------------------------
+Статистика по top fos:
+Computer science встречался 15324 раз
+Software engineering встречался 8459 раз
+Software development встречался 5088 раз
+Engineering встречался 4539 раз
+Software встречался 3782 раз
+Software construction встречался 3254 раз
+Systems engineering встречался 3064 раз
+Software system встречался 2106 раз
+Knowledge management встречался 1912 раз
+Software development process встречался 1903 раз
+####################################################################################################
+cluster: 13
+Статистика по top keywords:
+empirical study встречался 297 раз
+software metrics встречался 202 раз
+data mining встречался 185 раз
+case study встречался 148 раз
+software engineering встречался 142 раз
+evaluation встречался 140 раз
+statistical analysis встречался 139 раз
+sensitivity analysis встречался 132 раз
+computer science встречался 129 раз
+software quality встречался 120 раз
+----------------------------------------------------------------------------------------------------
+Статистика по top fos:
+Computer science встречался 4623 раз
+Artificial intelligence встречался 1242 раз
+Data mining встречался 936 раз
+Mathematics встречался 875 раз
+Engineering встречался 633 раз
+Machine learning встречался 492 раз
+Knowledge management встречался 488 раз
+Software встречался 473 раз
+Empirical research встречался 450 раз
+Software engineering встречался 414 раз
+####################################################################################################
+cluster: 14
+Статистика по top keywords:
+real time встречался 978 раз
+video coding встречался 572 раз
+feature extraction встречался 472 раз
+visualization встречался 447 раз
+data compression встречался 439 раз
+video compression встречался 406 раз
+video quality встречался 376 раз
+encoding встречался 350 раз
+decoding встречался 345 раз
+quality of service встречался 326 раз
+----------------------------------------------------------------------------------------------------
+Статистика по top fos:
+Computer science встречался 11439 раз
+Artificial intelligence встречался 4013 раз
+Computer vision встречался 2994 раз
+Multimedia встречался 2792 раз
+Computer graphics (images) встречался 1438 раз
+Visualization встречался 1197 раз
+Real-time computing встречался 1165 раз
+Speech recognition встречался 1073 раз
+Video tracking встречался 1068 раз
+Computer network встречался 957 раз
+####################################################################################################
+cluster: 15
+Статистика по top keywords:
+petri net встречался 593 раз
+decision maker встречался 407 раз
+information system встречался 346 раз
+petri nets встречался 319 раз
+decision support system встречался 258 раз
+data mining встречался 244 раз
+business process встречался 235 раз
+information retrieval встречался 211 раз
+decision support встречался 208 раз
+decision support systems встречался 207 раз
+----------------------------------------------------------------------------------------------------
+Статистика по top fos:
+Computer science встречался 6374 раз
+Artificial intelligence встречался 1632 раз
+Mathematics встречался 1056 раз
+Knowledge management встречался 1008 раз
+Petri net встречался 920 раз
+Decision support system встречался 884 раз
+Data mining встречался 846 раз
+Information system встречался 836 раз
+Machine learning встречался 622 раз
+Theoretical computer science встречался 601 раз
+####################################################################################################
+cluster: 16
+Статистика по top keywords:
+mobile robots встречался 3081 раз
+path planning встречался 1612 раз
+mobile robot встречался 1601 раз
+computer vision встречался 1463 раз
+real time встречался 1416 раз
+robots встречался 1381 раз
+motion control встречался 1312 раз
+robot kinematics встречался 1192 раз
+tracking встречался 1084 раз
+feature extraction встречался 984 раз
+----------------------------------------------------------------------------------------------------
+Статистика по top fos:
+Computer science встречался 18793 раз
+Artificial intelligence встречался 15897 раз
+Computer vision встречался 11938 раз
+Robot встречался 8220 раз
+Engineering встречался 7518 раз
+Control theory встречался 6151 раз
+Mobile robot встречался 4869 раз
+Simulation встречался 4718 раз
+Control engineering встречался 3338 раз
+Mathematics встречался 3151 раз
+####################################################################################################
+cluster: 17
+Статистика по top keywords:
+computer science education встречался 984 раз
+information technology встречался 950 раз
+knowledge management встречался 868 раз
+computer science встречался 848 раз
+internet встречался 845 раз
+health care встречался 790 раз
+educational technology встречался 772 раз
+teaching встречался 720 раз
+data mining встречался 667 раз
+knowledge base встречался 650 раз
+----------------------------------------------------------------------------------------------------
+Статистика по top fos:
+Computer science встречался 20249 раз
+Knowledge management встречался 6297 раз
+Multimedia встречался 5445 раз
+Artificial intelligence встречался 4843 раз
+Psychology встречался 4146 раз
+Mathematics education встречался 2914 раз
+Medicine встречался 2556 раз
+Educational technology встречался 2497 раз
+Human–computer interaction встречался 2360 раз
+Engineering встречался 2193 раз
+####################################################################################################
+cluster: 18
+Статистика по top keywords:
+lower bound встречался 1128 раз
+upper bound встречался 804 раз
+computational geometry встречался 590 раз
+data structure встречался 579 раз
+computational complexity встречался 535 раз
+shortest path встречался 335 раз
+approximation algorithm встречался 324 раз
+log n встречался 314 раз
+approximation algorithms встречался 307 раз
+algorithms встречался 304 раз
+----------------------------------------------------------------------------------------------------
+Статистика по top fos:
+Mathematics встречался 10724 раз
+Combinatorics встречался 6579 раз
+Discrete mathematics встречался 5216 раз
+Computer science встречался 4083 раз
+Algorithm встречался 3474 раз
+Upper and lower bounds встречался 2077 раз
+Mathematical optimization встречался 1507 раз
+Theoretical computer science встречался 1445 раз
+Time complexity встречался 1301 раз
+Artificial intelligence встречался 1002 раз
+####################################################################################################
+cluster: 19
+Статистика по top keywords:
+wireless sensor networks встречался 4941 раз
+wireless sensor network встречался 3876 раз
+quality of service встречался 3446 раз
+protocols встречался 2892 раз
+ad hoc networks встречался 2831 раз
+routing встречался 2828 раз
+sensor network встречался 2731 раз
+wireless network встречался 2588 раз
+routing protocols встречался 2236 раз
+network topology встречался 2169 раз
+----------------------------------------------------------------------------------------------------
+Статистика по top fos:
+Computer science встречался 39914 раз
+Computer network встречался 31043 раз
+Distributed computing встречался 14154 раз
+Wireless sensor network встречался 7696 раз
+Wireless network встречался 5564 раз
+Network packet встречался 5545 раз
+Real-time computing встречался 5142 раз
+Wireless ad hoc network встречался 4452 раз
+Key distribution in wireless sensor networks встречался 4435 раз
+Quality of service встречался 4214 раз
+####################################################################################################
+cluster: 20
+Статистика по top keywords:
+parameter estimation встречался 1532 раз
+speech recognition встречался 1083 раз
+maximum likelihood estimation встречался 956 раз
+probability встречался 871 раз
+signal processing встречался 706 раз
+statistical analysis встречался 626 раз
+hidden markov model встречался 622 раз
+hidden markov models встречался 608 раз
+maximum likelihood встречался 597 раз
+indexing terms встречался 590 раз
+----------------------------------------------------------------------------------------------------
+Статистика по top fos:
+Mathematics встречался 11701 раз
+Computer science встречался 10911 раз
+Artificial intelligence встречался 6468 раз
+Algorithm встречался 5607 раз
+Statistics встречался 3739 раз
+Pattern recognition встречался 3623 раз
+Mathematical optimization встречался 3580 раз
+Speech recognition встречался 3441 раз
+Applied mathematics встречался 2346 раз
+Estimator встречался 2224 раз
+####################################################################################################
+cluster: 21
+Статистика по top keywords:
+chip встречался 1589 раз
+cmos integrated circuits встречался 1579 раз
+integrated circuit design встречался 1233 раз
+low power electronics встречался 1032 раз
+power consumption встречался 903 раз
+cmos technology встречался 902 раз
+adaptive control встречался 819 раз
+switches встречался 816 раз
+logic design встречался 769 раз
+control systems встречался 749 раз
+----------------------------------------------------------------------------------------------------
+Статистика по top fos:
+Control theory встречался 12292 раз
+Computer science встречался 11705 раз
+Engineering встречался 11209 раз
+Electronic engineering встречался 9952 раз
+Electrical engineering встречался 5040 раз
+CMOS встречался 4109 раз
+Mathematics встречался 3563 раз
+Control engineering встречался 2966 раз
+Electronic circuit встречался 2587 раз
+Voltage встречался 2461 раз
+####################################################################################################
+cluster: 22
+Статистика по top keywords:
+time series встречался 528 раз
+real time встречался 483 раз
+real time systems встречался 426 раз
+scheduling встречался 232 раз
+steady state встречался 201 раз
+data mining встречался 190 раз
+computer science встречался 182 раз
+real-time systems встречался 162 раз
+queueing theory встречался 154 раз
+discrete time встречался 141 раз
+----------------------------------------------------------------------------------------------------
+Статистика по top fos:
+Computer science встречался 5978 раз
+Mathematics встречался 1679 раз
+Artificial intelligence встречался 1152 раз
+Distributed computing встречался 1135 раз
+Algorithm встречался 1126 раз
+Real-time computing встречался 1069 раз
+Mathematical optimization встречался 875 раз
+Control theory встречался 759 раз
+Queue встречался 672 раз
+Theoretical computer science встречался 576 раз
+####################################################################################################
+cluster: 23
+Статистика по top keywords:
+load balance встречался 528 раз
+data mining встречался 350 раз
+load balancing встречался 300 раз
+distributed system встречался 294 раз
+clustering algorithms встречался 291 раз
+resource allocation встречался 290 раз
+distributed computing встречался 265 раз
+clustering встречался 256 раз
+computer science встречался 191 раз
+distributed processing встречался 179 раз
+----------------------------------------------------------------------------------------------------
+Статистика по top fos:
+Computer science встречался 5542 раз
+Distributed computing встречался 2144 раз
+Cluster analysis встречался 1705 раз
+Mathematics встречался 1455 раз
+Data mining встречался 1369 раз
+Artificial intelligence встречался 1128 раз
+Algorithm встречался 887 раз
+Correlation clustering встречался 874 раз
+Scalability встречался 860 раз
+Load balancing (computing) встречался 770 раз
+####################################################################################################
+cluster: 24
+Статистика по top keywords:
+new method встречался 139 раз
+data mining встречался 102 раз
+computational complexity встречался 68 раз
+existing method встречался 61 раз
+feature extraction встречался 59 раз
+neural network встречался 51 раз
+computer science встречался 51 раз
+conventional method встречался 49 раз
+image processing встречался 46 раз
+mathematical model встречался 45 раз
+----------------------------------------------------------------------------------------------------
+Статистика по top fos:
+Computer science встречался 1649 раз
+Artificial intelligence встречался 840 раз
+Mathematics встречался 832 раз
+Algorithm встречался 532 раз
+Data mining встречался 394 раз
+Pattern recognition встречался 307 раз
+Mathematical optimization встречался 287 раз
+Computer vision встречался 250 раз
+Machine learning встречался 224 раз
+Theoretical computer science встречался 150 раз
+####################################################################################################
+cluster: 25
+Статистика по top keywords:
+cryptography встречался 2441 раз
+security встречался 2215 раз
+protocols встречался 1452 раз
+authentication встречался 1351 раз
+privacy встречался 1250 раз
+public key встречался 1128 раз
+data privacy встречался 965 раз
+internet встречался 904 раз
+public key cryptography встречался 879 раз
+information security встречался 863 раз
+----------------------------------------------------------------------------------------------------
+Статистика по top fos:
+Computer science встречался 23240 раз
+Computer security встречался 13515 раз
+Computer network встречался 5219 раз
+Cryptography встречался 4526 раз
+Theoretical computer science встречался 4262 раз
+Authentication встречался 3000 раз
+Encryption встречался 2986 раз
+Mathematics встречался 2908 раз
+Internet privacy встречался 2450 раз
+Distributed computing встречался 2231 раз
+####################################################################################################
+cluster: 26
+Статистика по top keywords:
+stability встречался 913 раз
+linear system встречался 768 раз
+second order встречался 667 раз
+convergence встречался 643 раз
+differential equation встречался 607 раз
+numerical method встречался 597 раз
+satisfiability встречался 596 раз
+linear matrix inequality встречался 572 раз
+finite element встречался 560 раз
+finite element method встречался 542 раз
+----------------------------------------------------------------------------------------------------
+Статистика по top fos:
+Mathematics встречался 29524 раз
+Mathematical analysis встречался 11585 раз
+Applied mathematics встречался 6984 раз
+Mathematical optimization встречался 5745 раз
+Control theory встречался 5428 раз
+Nonlinear system встречался 4497 раз
+Matrix (mathematics) встречался 4107 раз
+Algorithm встречался 3913 раз
+Numerical analysis встречался 3788 раз
+Computer science встречался 3774 раз
+####################################################################################################
+cluster: 27
+Статистика по top keywords:
+feature extraction встречался 3660 раз
+support vector machine встречался 2595 раз
+face recognition встречался 2153 раз
+support vector machines встречался 2124 раз
+machine learning встречался 1710 раз
+feature selection встречался 1639 раз
+learning artificial intelligence встречался 1534 раз
+image classification встречался 1517 раз
+pattern recognition встречался 1433 раз
+neural network встречался 1331 раз
+----------------------------------------------------------------------------------------------------
+Статистика по top fos:
+Artificial intelligence встречался 20454 раз
+Computer science встречался 18450 раз
+Pattern recognition встречался 13375 раз
+Machine learning встречался 8055 раз
+Mathematics встречался 5297 раз
+Support vector machine встречался 4774 раз
+Feature extraction встречался 4118 раз
+Classifier (linguistics) встречался 3871 раз
+Computer vision встречался 3815 раз
+Data mining встречался 3766 раз
+####################################################################################################
+cluster: 28
+Статистика по top keywords:
+distributed computing встречался 155 раз
+grid computing встречался 130 раз
+application software встречался 116 раз
+computer architecture встречался 107 раз
+computer science встречался 99 раз
+parallel computer встречался 95 раз
+computational modeling встречался 84 раз
+distributed application встречался 79 раз
+cloud computing встречался 79 раз
+scientific computing встречался 76 раз
+----------------------------------------------------------------------------------------------------
+Статистика по top fos:
+Computer science встречался 3180 раз
+Distributed computing встречался 636 раз
+Computation встречался 439 раз
+Theoretical computer science встречался 402 раз
+Artificial intelligence встречался 380 раз
+nothing встречался 375 раз
+Mathematics встречался 329 раз
+Software engineering встречался 306 раз
+Human–computer interaction встречался 210 раз
+Software встречался 206 раз
+####################################################################################################
+cluster: 29
+Статистика по top keywords:
+software testing встречался 590 раз
+testing встречался 493 раз
+test case встречался 383 раз
+automatic test pattern generation встречался 346 раз
+system testing встречался 326 раз
+fault coverage встречался 260 раз
+fault detection встречался 259 раз
+program testing встречался 244 раз
+design for testability встречался 222 раз
+logic testing встречался 190 раз
+----------------------------------------------------------------------------------------------------
+Статистика по top fos:
+Computer science встречался 4324 раз
+Algorithm встречался 1137 раз
+Mathematics встречался 1069 раз
+Engineering встречался 963 раз
+Test case встречался 741 раз
+Automatic test pattern generation встречался 729 раз
+Reliability engineering встречался 726 раз
+Artificial intelligence встречался 670 раз
+Programming language встречался 616 раз
+Software engineering встречался 556 раз
+####################################################################################################
+cluster: 30
+Статистика по top keywords:
+bioinformatics встречался 2992 раз
+algorithms встречался 2564 раз
+microarrays встречался 1591 раз
+proteins встречался 1258 раз
+genetics встречался 1228 раз
+computational biology встречался 1190 раз
+gene expression встречался 1147 раз
+internet встречался 1014 раз
+genomics встречался 863 раз
+data mining встречался 816 раз
+----------------------------------------------------------------------------------------------------
+Статистика по top fos:
+Computer science встречался 10183 раз
+Biology встречался 8626 раз
+Computational biology встречался 4969 раз
+Artificial intelligence встречался 4623 раз
+Data mining встречался 4323 раз
+Genetics встречался 3763 раз
+Mathematics встречался 2872 раз
+Algorithm встречался 2713 раз
+Gene встречался 2454 раз
+Genome встречался 2023 раз
+####################################################################################################
+cluster: 31
+Статистика по top keywords:
+knowledge base встречался 108 раз
+data mining встречался 71 раз
+rule based встречался 49 раз
+case base reasoning встречался 48 раз
+computational modeling встречался 43 раз
+computer science встречался 41 раз
+feature extraction встречался 40 раз
+neural network встречался 39 раз
+mathematical model встречался 38 раз
+computational complexity встречался 36 раз
+----------------------------------------------------------------------------------------------------
+Статистика по top fos:
+Computer science встречался 2242 раз
+Artificial intelligence встречался 787 раз
+Mathematics встречался 369 раз
+Data mining встречался 270 раз
+Machine learning встречался 236 раз
+Algorithm встречался 228 раз
+Theoretical computer science встречался 217 раз
+Computer vision встречался 184 раз
+Engineering встречался 181 раз
+Software engineering встречался 176 раз
+####################################################################################################
+cluster: 32
+Статистика по top keywords:
+resource allocation встречался 1280 раз
+cloud computing встречался 1179 раз
+electronic commerce встречался 1141 раз
+grid computing встречался 1070 раз
+multi agent system встречался 1057 раз
+supply chain встречался 1033 раз
+information technology встречался 951 раз
+business process встречался 942 раз
+profitability встречался 922 раз
+resource management встречался 911 раз
+----------------------------------------------------------------------------------------------------
+Статистика по top fos:
+Computer science встречался 20848 раз
+Business встречался 6268 раз
+Knowledge management встречался 5862 раз
+Distributed computing встречался 4161 раз
+Economics встречался 3963 раз
+Process management встречался 3139 раз
+Engineering встречался 3059 раз
+Operations research встречался 2674 раз
+Marketing встречался 2303 раз
+Microeconomics встречался 2097 раз
+####################################################################################################
+cluster: 33
+Статистика по top keywords:
+hardware встречался 2532 раз
+computer architecture встречался 2528 раз
+parallel processing встречался 2402 раз
+field programmable gate arrays встречался 2187 раз
+chip встречался 2121 раз
+embedded systems встречался 1259 раз
+embedded system встречался 1167 раз
+real time встречался 1134 раз
+parallel computer встречался 1125 раз
+message passing встречался 1072 раз
+----------------------------------------------------------------------------------------------------
+Статистика по top fos:
+Computer science встречался 33993 раз
+Parallel computing встречался 14423 раз
+Embedded system встречался 7424 раз
+Distributed computing встречался 5005 раз
+Operating system встречался 4360 раз
+Computer architecture встречался 3910 раз
+Field-programmable gate array встречался 3512 раз
+Computer hardware встречался 3195 раз
+Software встречался 2722 раз
+Scalability встречался 2563 раз
+####################################################################################################
+cluster: 34
+Статистика по top keywords:
+computer science встречался 224 раз
+software engineering встречался 213 раз
+information system встречался 201 раз
+data mining встречался 170 раз
+artificial intelligent встречался 164 раз
+general встречался 157 раз
+information technology встречался 151 раз
+information retrieval встречался 143 раз
+neural network встречался 139 раз
+first page встречался 130 раз
+----------------------------------------------------------------------------------------------------
+Статистика по top fos:
+Computer science встречался 22019 раз
+nothing встречался 20048 раз
+Artificial intelligence встречался 5614 раз
+Mathematics встречался 5109 раз
+Engineering встречался 2658 раз
+World Wide Web встречался 1964 раз
+Natural language processing встречался 1764 раз
+Algorithm встречался 1435 раз
+Speech recognition встречался 1392 раз
+Discrete mathematics встречался 1354 раз
+####################################################################################################
+cluster: 35
+Статистика по top keywords:
+programming language встречался 2028 раз
+formal specification встречался 1248 раз
+formal verification встречался 1038 раз
+model checking встречался 944 раз
+object oriented programming встречался 879 раз
+object oriented встречался 874 раз
+software engineering встречался 790 раз
+java встречался 688 раз
+computer science встречался 580 раз
+software systems встречался 552 раз
+----------------------------------------------------------------------------------------------------
+Статистика по top fos:
+Computer science встречался 22504 раз
+Programming language встречался 14446 раз
+Theoretical computer science встречался 4525 раз
+Software engineering встречался 2722 раз
+Formal specification встречался 1757 раз
+Compiler встречался 1704 раз
+Java встречался 1694 раз
+Artificial intelligence встречался 1658 раз
+nothing встречался 1589 раз
+Software встречался 1487 раз
+####################################################################################################
+cluster: 36
+Статистика по top keywords:
+unified modeling language встречался 417 раз
+mathematical model встречался 297 раз
+conceptual model встречался 286 раз
+computational modeling встречался 283 раз
+software engineering встречался 264 раз
+formal specification встречался 202 раз
+software systems встречался 201 раз
+uml встречался 184 раз
+software architecture встречался 182 раз
+data model встречался 180 раз
+----------------------------------------------------------------------------------------------------
+Статистика по top fos:
+Computer science встречался 7349 раз
+Artificial intelligence встречался 1868 раз
+Software engineering встречался 1281 раз
+Programming language встречался 1068 раз
+Unified Modeling Language встречался 917 раз
+Theoretical computer science встречался 875 раз
+Mathematics встречался 797 раз
+Data mining встречался 764 раз
+Machine learning встречался 635 раз
+Applications of UML встречался 563 раз
+####################################################################################################
+cluster: 37
+Статистика по top keywords:
+image segmentation встречался 4669 раз
+feature extraction встречался 2887 раз
+image processing встречался 2577 раз
+image reconstruction встречался 2549 раз
+computer vision встречался 1947 раз
+image resolution встречался 1741 раз
+pixel встречался 1708 раз
+shape встречался 1568 раз
+edge detection встречался 1437 раз
+image registration встречался 1288 раз
+----------------------------------------------------------------------------------------------------
+Статистика по top fos:
+Artificial intelligence встречался 32049 раз
+Computer vision встречался 27410 раз
+Computer science встречался 25706 раз
+Mathematics встречался 16425 раз
+Pattern recognition встречался 10435 раз
+Algorithm встречался 7009 раз
+Image processing встречался 5870 раз
+Image segmentation встречался 5620 раз
+Segmentation встречался 5452 раз
+Pixel встречался 4729 раз
+####################################################################################################
+cluster: 38
+Статистика по top keywords:
+game theory встречался 665 раз
+nash equilibrium встречался 363 раз
+games встречался 352 раз
+nash equilibria встречался 172 раз
+C72 встречался 166 раз
+artificial intelligence встречался 158 раз
+data mining встречался 145 раз
+game design встречался 141 раз
+computer science встречался 138 раз
+artificial intelligent встречался 128 раз
+----------------------------------------------------------------------------------------------------
+Статистика по top fos:
+Computer science встречался 5221 раз
+Artificial intelligence встречался 1888 раз
+Mathematics встречался 1646 раз
+Mathematical economics встречался 1466 раз
+Game theory встречался 912 раз
+Multimedia встречался 759 раз
+Nash equilibrium встречался 740 раз
+Mathematical optimization встречался 739 раз
+Economics встречался 651 раз
+Human–computer interaction встречался 639 раз
+####################################################################################################
+cluster: 39
+Статистика по top keywords:
+decoding встречался 3303 раз
+signal to noise ratio встречался 3168 раз
+fading встречался 2343 раз
+bit error rate встречался 2147 раз
+mimo встречался 2104 раз
+interference встречался 2029 раз
+ofdm modulation встречался 2003 раз
+code division multiple access встречался 1911 раз
+computational complexity встречался 1861 раз
+channel coding встречался 1840 раз
+----------------------------------------------------------------------------------------------------
+Статистика по top fos:
+Computer science встречался 24915 раз
+Algorithm встречался 12064 раз
+Mathematics встречался 10230 раз
+Electronic engineering встречался 9845 раз
+Communication channel встречался 9319 раз
+Computer network встречался 6644 раз
+Fading встречался 4757 раз
+Telecommunications встречался 4442 раз
+Decoding methods встречался 4397 раз
+MIMO встречался 3999 раз
+####################################################################################################
+cluster: 40
+Статистика по top keywords:
+computational complexity встречался 243 раз
+boolean function встречался 225 раз
+signal processing встречался 174 раз
+neural network встречался 167 раз
+radial basis function встречался 162 раз
+boolean functions встречался 133 раз
+computer science встречался 129 раз
+data mining встречался 117 раз
+fourier transform встречался 115 раз
+three dimensional встречался 99 раз
+----------------------------------------------------------------------------------------------------
+Статистика по top fos:
+Mathematics встречался 4237 раз
+Computer science встречался 2527 раз
+Discrete mathematics встречался 1379 раз
+Algorithm встречался 1364 раз
+Artificial intelligence встречался 1219 раз
+Theoretical computer science встречался 748 раз
+Combinatorics встречался 693 раз
+Mathematical analysis встречался 598 раз
+Pure mathematics встречался 581 раз
+Algebra встречался 566 раз
+####################################################################################################
+cluster: 41
+Статистика по top keywords:
+user interface встречался 1930 раз
+virtual reality встречался 1715 раз
+human computer interaction встречался 1377 раз
+social network встречался 1205 раз
+virtual environment встречался 1128 раз
+user interfaces встречался 1006 раз
+augmented reality встречался 886 раз
+real time встречался 816 раз
+recommender system встречался 784 раз
+internet встречался 749 раз
+----------------------------------------------------------------------------------------------------
+Статистика по top fos:
+Computer science встречался 26407 раз
+Human–computer interaction встречался 11381 раз
+Multimedia встречался 7329 раз
+World Wide Web встречался 6027 раз
+Artificial intelligence встречался 4705 раз
+User interface встречался 3935 раз
+Psychology встречался 2827 раз
+Social network встречался 2471 раз
+Usability встречался 2086 раз
+Knowledge management встречался 2002 раз
+####################################################################################################
